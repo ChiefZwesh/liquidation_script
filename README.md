@@ -30,11 +30,5 @@ python script.py
 
 This script is for educational and informational purposes only. Binance liquidation data can be highly volatile and may not be suitable for making trading decisions. Always conduct thorough research and consider seeking professional advice before making any financial decisions.
 
-## License
-
-This script is open-source and licensed under the [MIT License](LICENSE).
-
-Feel free to modify, distribute, and use the script as per the terms of the MIT License.
-
 ---
 *Disclaimer: Trading involves risk, and the content provided here does not constitute financial advice. The author and the script contributors are not responsible for any losses or damages incurred while using this script. Use it at your own risk.*
